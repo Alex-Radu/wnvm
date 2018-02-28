@@ -1,0 +1,27 @@
+{
+  "name": "wnvm",
+  "version": "0.0.1",
+  "description": "Node Version Manager for Windows",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "bin": {
+    "wnvm": "./index.js"
+  },
+  "keywords": [
+    "nvm",
+    "windows",
+    "node",
+    "version",
+    "manager"
+  ],
+  "author": "Alex-Radu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "node-stream-zip": "^1.4.2",
+    "ora": "^1.4.0",
+  }
+}
