@@ -5,11 +5,11 @@
 1. [Intro](#intro)
 2. [Setup](#setup)
 3. [Usage](#usage)
-  * [init](#init)
-  * [install](#install)
-  * [use](#use)
-  * [list](#list)
-  * [implode](#implode)
+   * [init](#init)
+   * [install](#install)
+   * [use](#use)
+   * [list](#list)
+   * [implode](#implode)
 4. [To-do](#to-do)
 
 ------------------------------
