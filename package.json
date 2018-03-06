@@ -1,6 +1,6 @@
 {
   "name": "wnvm",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Node Version Manager for Windows",
   "main": "index.js",
   "scripts": {
